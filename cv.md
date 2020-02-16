@@ -12,4 +12,12 @@ Ruby on rails developer with 2+ years experience of back-end development. Primar
 * Databases: Mysql, Postgres, Redis
 * OS: Windows, Linux
 * Other tools: Git, RSpec, HTML, CSS
+### Code examples:
+Pet project as code example: [pet-project](https://github.com/alexey-yukhnevich/unl-test)
+### Experience:
+Finished Rubizza Survival camp (ruby courses), working for a Corevist Inc. as Ruby on rails developer since July 2018.
+### Education:
+Graduated from the BSUIR (Faculty of computer systems and networks, Computer Science and Software Engineering)
+### English
+B1 English level, daily practice during calls/meetings with foreign managers, lessons twice per week.
 
